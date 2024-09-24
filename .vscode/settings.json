@@ -7,6 +7,9 @@
         "xhash": "cpp",
         "xstring": "cpp",
         "xutility": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp"
     }
 }
